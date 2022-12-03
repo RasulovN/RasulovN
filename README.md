@@ -26,6 +26,7 @@ oʻrganyapman - 👯 Men [React shop](https://github.com/RasulovN) da hamkorlik 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasulovn&show_icons=true&locale=en&layout=compact" alt="rasulovn" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasulovn&show_icons=true&locale=en" alt="rasulovn" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasulovn&show_icons=true&locale=en" alt="rasulovn" /> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasulovn&" alt="rasulovn" /></p>
+
