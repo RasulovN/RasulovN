@@ -1,26 +1,24 @@
-<h1 align="center">Salom 👋, men Nurbek</h1>
-<h3 align="center">O‘zbekistonlik ishtiyoqli frontend dasturchisi</h3>
+<h1 align="center">Assalomu alaykum 👋, men Nurbek</h1>
+<h3 align="center">O‘zbekistonlik ehtirosli Full Stack veb-dasturchisi</h3>
 
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=rasulovn&label=Profile%20views&color=0e75b6&style=flat" alt="rasulovn" /> </p>
-
-<p align="left"> <a href="https:/ /twitter.com/leadermen5" target="blank"><img src="https://img.shields.io/twitter/follow/leadermen5?logo=twitter&style=for-the-badge" alt="leadermen5" / >></a> </p>
+<p align="left"> <a href ="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasulovn" alt="rasulovn" /></a> </p>
 
 - 🌱 Men hozirda **Reack native, Linux os,**
 
-oʻrganyapman - 👯 Men [React shop](https://github.) da hamkorlik qilmoqchiman.com/RasulovN/react-shop)
+oʻrganyapman - 👯 Men [React shop](https://github.com/RasulovN) da hamkorlik qilmoqchiman /react-shop)
 
-- 👨‍💻 Barcha loyihalarim [https://github.com/RasulovN?tab=repositories](https://github.com/RasulovN?tab=repositories) manzilida mavjud.
+- 👨‍💻 Mening barcha loyihalarim [https://github.com/RasulovN?tab=repositories](https://github.com/RasulovN?tab=repositories) manzilida mavjud
 
-- 📫 Men bilan qanday bog'lanish mumkin **nurbekrasulov71@gmail.com**
+- 📫 Qanday qilib men bilan bog'laning **nurbekrasulov71@gmail.com**
 
 <h3 align="left">Men bilan bog'laning:</h3>
 <p align="left">
-<a href="https://codepen. io/https://codepen.io/rasulovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/ src/images/icons/Social/codepen.svg" alt="https://codepen.io/rasulovdev" height="30" width="40" /></a>
-<a href="https:// dev.to/rasulovdev.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icons/Social/devto.svg" alt="rasulovdev.uz" height=""30" eni="40" /></a>
-<a href="https://twitter.com/leadermen5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="leadermen5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in" /https://www.linkedin.com/in/nurbek-rasulov-707083228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurbek-rasulov-707083228" balandligi="30" kengligi "40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leadermen0" target="blank"><img align="center" src="https://raw.githubusercontent.com /rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leadermen0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@rasulovdev" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ rasulovdev" height="30" width="40" /></a>
+<a href="https://codepen.io/https://codepen.io/rasulovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/rasulovdev" height="30" width="40" /></ a>
+<a href="https://dev.to/rasulovdev.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator/master/src/images/icons/Social/devto.svg" alt="rasulovdev.uz" height="30" width="40" /></a>
+<a href="https:/ /twitter.com/leadermen5" target="blank"><img align="center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leadermen5" height="30" width="" 40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nurbek-rasulov-707083228" target="blank"><img align="center" src="https ://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/ in/nurbek-rasulov-707083228" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/leadermen0" target ="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt ="https://www.instagram.com/leadermen0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@rasulovdev" target="blank"><img align="center" src="https:// raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rasulovdev" height="30" " width="40" /></a>
 </p>
 
 <h3 align="left">Tillar va asboblar:</h3>
@@ -28,5 +26,6 @@ oʻrganyapman - 👯 Men [React shop](https://github.) da hamkorlik qilmoqchiman
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasulovn&show_icons=true&locale=en&layout=compact" alt="rasulovn" /> </p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasulovn&show_icons=true&locale=en" alt="rasulovn" /> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rasulovn&show_icons=true&locale=en" alt="rasulovn" /> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasulovn&" alt="rasulovn" /></p>
