@@ -17,7 +17,7 @@
 <a href="https://dev.to/rasulovdev.uz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rasulovdev.uz" height="30" width="40" /></a>
 <a href="https://twitter.com/leadermen5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="leadermen5" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nurbek-rasulov-707083228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nurbek-rasulov-707083228" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/leadermen0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/leadermen0" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rasulovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rasulovdev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@rasulovdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@rasulovdev" height="30" width="40" /></a>
 </p>
 
